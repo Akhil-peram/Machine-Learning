@@ -8,3 +8,13 @@ Types of machine learning
 * Unsupervised Learning
 * Reinforcement Learning
 * Deep Learning
+
+
+Let's Start the Machine learning Madness...
+
+# prequestries
+- Numpy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Mostly all Ml related packages in python 
