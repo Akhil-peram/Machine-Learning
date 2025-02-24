@@ -12,9 +12,12 @@ Types of machine learning
 
 Let's Start the Machine learning Madness...
 
-# prequestries
+# Prerequisites
+
 - Numpy
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Mostly all Ml related packages in python 
+- Mostly all Ml related packages in python
+
+  We will learn every about eery package with code ... Necessary
