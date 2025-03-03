@@ -20,4 +20,4 @@ Let's Start the Machine learning Madness...
 - Scikit-learn
 - Mostly all Ml related packages in python
 
-  We will learn every about eery package with code ... Necessary
+  We will learn every about every package with code ... Necessary
